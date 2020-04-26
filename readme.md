@@ -16,21 +16,12 @@
 About this section. Optional. Keep this short and focus on the list.
 
 - [QMK](https://github.com/qmk/qmk_firmware)
-- [kap](https://github.com/wulkano/kap) Open-source screen recorder
 
 ### Windows
 
 - [Initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) A proper volume control
-
-### MacOS
-
-- [ha-menu](https://github.com/codechimp-org/ha-menu) A Home Assistant companion app for the MacOS menu bar
-- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop)
-- [Pock](https://github.com/pigigaldi/Pock) Display macOS Dock in Touch Bar
-- [EnergyBar](https://github.com/billziss-gh/EnergyBar) Display more things on the Touch Bar
-- [iTerm2](https://www.iterm2.com/)
 
 ### CLI
 
