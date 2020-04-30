@@ -13,9 +13,8 @@
 
 ## Tools
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [QMK](https://github.com/qmk/qmk_firmware)
+- [OneDrive](https://github.com/abraunegg/onedrive) OneDrive via CLI for Linux
 
 ### Windows
 
